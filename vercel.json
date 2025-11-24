@@ -1,0 +1,8 @@
+{
+  "buildCommand": "node create-config.js",
+  "devCommand": "python -m http.server 8000",
+  "installCommand": "echo 'No dependencies to install'",
+  "framework": null,
+  "outputDirectory": "."
+}
+
